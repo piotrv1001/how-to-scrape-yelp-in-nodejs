@@ -2,6 +2,8 @@
 
 A minimal Node.js example that scrapes Yelp business listings by calling the [Yelp Business Scraper](https://apify.com/piotrv1001/yelp-business-scraper) Apify actor. You don't build a scraper from scratch here — the actor handles the crawling, parsing, and anti-blocking, and you just call it and read the results.
 
+![Yelp Business Scraper results](./yelp_results.png)
+
 ## What this example does
 
 - Calls the `piotrv1001/yelp-business-scraper` Apify actor
