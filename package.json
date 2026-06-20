@@ -1,0 +1,14 @@
+{
+  "name": "how-to-scrape-yelp-in-nodejs",
+  "version": "1.0.0",
+  "description": "Example showing how to scrape Yelp business listings in Node.js using the Apify Yelp Business Scraper actor.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "apify-client": "^2.9.0",
+    "dotenv": "^16.4.0"
+  }
+}
